@@ -1,2 +1,2 @@
 # Customer_Shopping_Behaviour_Data_Analysis
-This project analyzes customer shopping behavior using transactional data to identify patterns in spending, preferences, and customer segments. Python, SQL, and Power BI were used for data processing, analysis, and visualization to generate actionable business insights.
+This project focuses on end-to-end data analysis, starting from raw data processing to delivering actionable insights through visualization. It involves data loading using Python, performing Exploratory Data Analysis (EDA), cleaning and transforming data, executing SQL queries across different database systems, and building an interactive Power BI dashboard.
